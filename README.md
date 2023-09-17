@@ -128,7 +128,7 @@ Pagina web empresarial MIPAUSIA
     <section>
         <h2>Contacto</h2>
 <h3>Ubicación Geografica</h3>
-<ul>
+<ul>La empresa esta ubicada en Bogota Colombia en calle147 #99-52
 <p>La empresa realizará la investigación en la localidad de Suba, Bogotá Colombia, enfocándose en la población objetivo que va desde los 18 años hasta los 87 años que tengan acceso a aparatos electrónicos inteligentes.</p>
 </ul>
 <h3>Redes Sociales </h3>
