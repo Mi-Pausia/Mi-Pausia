@@ -48,7 +48,7 @@ Pagina web empresarial MIPAUSIA
 </head>
 <body>
     <header>
-        <h1>Mi Pausa</h1>
+        <h1>Mi Pausia</h1>
     </header>
     <nav>
         <a href="#inicio">Inicio</a>
